@@ -1,0 +1,6 @@
+(http.request.uri.path ne "/robots.txt" and (
+  lower(http.user_agent) contains "claudebot" or
+  lower(http.user_agent) contains "claude-searchbot" or
+  lower(http.user_agent) contains "claude-user" or
+  lower(http.user_agent) contains "claude-agent"
+))

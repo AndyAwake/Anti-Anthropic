@@ -1,0 +1,31 @@
+quarter,registrant,client,kind,usd,method,posted,source
+Q1,BALLARD PARTNERS,"ANTHROPIC, PBC",firm_income,130000.00,,2026-04-14T17:58:54-04:00,https://lda.gov/filings/public/filing/ca8b4015-a7ac-47e8-a198-9c6ffd429694/print/
+Q1,"CONTINENTAL STRATEGY, LLC","ANTHROPIC, PBC",firm_income,150000.00,,2026-04-17T16:07:33-04:00,https://lda.gov/filings/public/filing/7f7435b4-526f-4004-99d2-83d9becd5186/print/
+Q1,THORN RUN PARTNERS,ANTHROPIC PBC,firm_income,50000.00,,2026-04-18T12:50:41-04:00,https://lda.gov/filings/public/filing/0bc9d5cf-72dd-4b5a-a252-d6401aff48dc/print/
+Q1,AQUIA GROUP INC.,"ANTHROPIC, PBC",firm_income,60000.00,,2026-04-19T22:09:16-04:00,https://lda.gov/filings/public/filing/342832c2-08e4-49cf-99d3-8c0a79549a6c/print/
+Q1,"KOUNTOUPES DENHAM CARR & REID, LLC","ANTHROPIC, PBC",firm_income,60000.00,,2026-04-20T10:09:31-04:00,https://lda.gov/filings/public/filing/2af89927-4a25-4f9b-86d4-d63de40bb85c/print/
+Q1,FIERCE GOVERNMENT RELATIONS,ANTHROPIC,firm_income,60000.00,,2026-04-20T10:22:36-04:00,https://lda.gov/filings/public/filing/8fa765f2-dcfb-4741-8fd7-9b0856c5b417/print/
+Q1,AVENUE SOLUTIONS,"ANTHROPIC, PBC",firm_income,60000.00,,2026-04-20T18:05:47-04:00,https://lda.gov/filings/public/filing/c6733db4-0079-4046-9e73-2755bb4f4879/print/
+Q1,"NAVIGATORS GLOBAL LLC (FORMERLY DC NAVIGATORS, LLC)",ANTHROPIC PBC,firm_income,30000.00,,2026-04-20T20:13:05-04:00,https://lda.gov/filings/public/filing/2797e93c-4d13-4570-aee7-d61488b3023e/print/
+Q1,ANTHROPIC,ANTHROPIC,organization_expenses,1560000.00,A,2026-04-20T20:55:32-04:00,https://lda.gov/filings/public/filing/90cc74f3-1bd5-40c1-bba0-8d6e00fbb200/print/
+Q1,TOWER 19,"AQUIA GROUP ON BEHALF OF ANTHROPIC, PBC",firm_income,20000.00,,2026-04-20T23:26:10-04:00,https://lda.gov/filings/public/filing/5bff38a9-0656-42de-a27e-7958ec1f5005/print/
+Q2,BALLARD PARTNERS,"ANTHROPIC, PBC",firm_income,380000.00,,2026-07-14T12:47:00-04:00,https://lda.gov/filings/public/filing/8db3955e-600c-4e0a-8944-91a7878ae110/print/
+Q2,"KOUNTOUPES DENHAM CARR & REID, LLC","ANTHROPIC, PBC",firm_income,60000.00,,2026-07-17T17:10:21-04:00,https://lda.gov/filings/public/filing/038ace8c-a981-4a85-91b2-a1bc556ab8dd/print/
+Q2,"CONTINENTAL STRATEGY, LLC","ANTHROPIC, PBC",firm_income,150000.00,,2026-07-19T13:17:29-04:00,https://lda.gov/filings/public/filing/94ed28d3-d272-40ba-994d-34045d92c6da/print/
+Q2,THORN RUN PARTNERS,ANTHROPIC PBC,firm_income,50000.00,,2026-07-19T20:21:47-04:00,https://lda.gov/filings/public/filing/049ae75f-8e37-4de2-8d0b-0010cef2fc17/print/
+Q2,AQUIA GROUP INC.,"ANTHROPIC, PBC",firm_income,60000.00,,2026-07-19T21:37:56-04:00,https://lda.gov/filings/public/filing/eae91755-71b5-4876-89fa-b65a1e0fb75a/print/
+Q2,FIERCE GOVERNMENT RELATIONS,ANTHROPIC,firm_income,80000.00,,2026-07-20T12:07:40-04:00,https://lda.gov/filings/public/filing/9389667a-a5ea-4572-bf77-a71207627990/print/
+Q2,AVENUE SOLUTIONS,"ANTHROPIC, PBC",firm_income,60000.00,,2026-07-20T13:57:22-04:00,https://lda.gov/filings/public/filing/4ebe1bae-e70b-4df7-83d1-bd39890b565c/print/
+Q2,"NAVIGATORS GLOBAL LLC (FORMERLY DC NAVIGATORS, LLC)",ANTHROPIC PBC,firm_income,60000.00,,2026-07-20T15:33:31-04:00,https://lda.gov/filings/public/filing/e9f20834-c97d-47da-bf85-890683dca9f1/print/
+Q2,ANTHROPIC,ANTHROPIC,organization_expenses,1970000.00,A,2026-07-20T20:52:04-04:00,https://lda.gov/filings/public/filing/812e5787-90df-48ef-a801-500468d63047/print/
+Q2,TOWER 19,"AQUIA GROUP ON BEHALF OF ANTHROPIC, PBC",firm_income,20000.00,,2026-07-20T22:43:07-04:00,https://lda.gov/filings/public/filing/398ea05d-8027-49d7-910d-a7d2ae768250/print/
+Q3,"KOUNTOUPES DENHAM CARR & REID, LLC","ANTHROPIC, PBC",firm_income,60000.00,,2026-10-15T12:40:29-04:00,https://lda.gov/filings/public/filing/53c96e3d-6604-4e42-91bb-12f51686106c/print/
+Q3,BALLARD PARTNERS,"ANTHROPIC, PBC",firm_income,380000.00,,2026-10-15T20:16:51-04:00,https://lda.gov/filings/public/filing/62079cf1-23ea-4988-918e-c690b0f61217/print/
+Q3,AQUIA GROUP INC.,"ANTHROPIC, PBC",firm_income,60000.00,,2026-10-18T21:20:48-04:00,https://lda.gov/filings/public/filing/7c921e66-2c9a-4838-afc6-82fc4633c673/print/
+Q3,"CONTINENTAL STRATEGY, LLC","ANTHROPIC, PBC",firm_income,150000.00,,2026-10-19T11:24:58-04:00,https://lda.gov/filings/public/filing/abc974e3-a2b3-41a8-aa82-08e2fae4756c/print/
+Q3,TOWER 19,"AQUIA GROUP ON BEHALF OF ANTHROPIC, PBC",firm_income,20000.00,,2026-10-19T15:09:22-04:00,https://lda.gov/filings/public/filing/1643d159-7d88-4054-9411-bac151815127/print/
+Q3,THORN RUN PARTNERS,ANTHROPIC PBC,firm_income,50000.00,,2026-10-19T17:13:37-04:00,https://lda.gov/filings/public/filing/d27fb382-5dd0-4b1c-9039-3a3b2c7ab9f7/print/
+Q3,FIERCE GOVERNMENT RELATIONS,ANTHROPIC,firm_income,90000.00,,2026-10-20T09:12:16-04:00,https://lda.gov/filings/public/filing/2cc797fa-e091-4272-96a3-bc0f11dc1c3e/print/
+Q3,AVENUE SOLUTIONS,"ANTHROPIC, PBC",firm_income,60000.00,,2026-10-20T15:38:57-04:00,https://lda.gov/filings/public/filing/19b2d9ce-3a3c-4892-823a-d38a680c48a7/print/
+Q3,ANTHROPIC,ANTHROPIC,organization_expenses,2110000.00,A,2026-10-20T19:50:56-04:00,https://lda.gov/filings/public/filing/d0b9f104-2212-4fcc-8304-5c978c366768/print/
+Q3,"NAVIGATORS GLOBAL LLC (FORMERLY DC NAVIGATORS, LLC)",ANTHROPIC PBC,firm_income,60000.00,,2026-10-21T19:45:02-04:00,https://lda.gov/filings/public/filing/7b077098-cf19-45e1-a46c-f609c31f41de/print/
