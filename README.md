@@ -1,75 +1,45 @@
 # Anti-Anthropic
 
-<!-- ANDYAWAKE_V4_START -->
-## 学习 Claude 的优秀方法与技术选择权 · 开源实操网站
+## 学习它的能力，反对它的封锁
 
-**给正在使用 Claude / Claude Code 的人：先保全自己的资料和工作成果，再按任务找到可用替代，最后把优秀方法沉淀为自己掌握的工程资产。** 不强迫弃用某款 AI，也不要求先加微信才能获得教程。
+**V4.1 · 2026-11-14 · AndyAwake / 星觉科技**
 
-- [打开完整交互网站](https://andyawake.github.io/Anti-Anthropic/)
-- [在线阅读全文手册](https://andyawake.github.io/Anti-Anthropic/#main-content) · [下载全文 PDF](https://andyawake.github.io/Anti-Anthropic/assets/guide.pdf)
-- 关联：[数据迁移](https://github.com/AndyAwake/Out-Anthropic) / [寻找平替](https://github.com/AndyAwake/Free-Anthropic) / [方法学习与证据](https://github.com/AndyAwake/Anti-Anthropic)
+大部分中国的普通人和普通公司，只想安静地当一个地球成员，把自己的事业经营好。Anthropic 在 AI 战略上有独到之处，我们应该虚心学习；面对它的对华限制和政治操作，我们也要坚决反制。
 
-教程免费，模板公开。作者 AI 酋长 Andy / 星觉科技。公司官网：[www.a6no1.cn](https://www.a6no1.cn/)。
-<!-- ANDYAWAKE_V4_END -->
+## 我们的四点宣言
 
-## 反制 Anthropic：AI 技术主权、数据保护与商业竞争保姆级攻略
+### 1、联合反对者，支持它的对手
 
-**V2.1 · 2026 年 11 月 14 日 · AndyAwake / 星觉科技**
+谁反对 Anthropic，我们就应该支持他。谁是 Anthropic 的敌人，就是我们的朋友。
 
-大部分普通人和企业，只想安静地经营自己的事业，作为地球的一员学习、创造和生活。
+### 2、用好替代，把优质数据留在自己手里
 
-**我们反对 Anthropic 的具体政策与行为，也尊重每个人选择使用 Claude 的自由。** 技术上虚心学习，把优秀经验变成自己的能力；数据上保有备份，业务上保有替代，让任何一个供应商都不能成为自己的唯一出路。
+Gemini 和 OpenAI 的最新模型，能够应对我们生活中大部分场景的使用；WorkBuddy 和豆包在国内数据集和国内生态上更有优势。我们的优质数据，特别是商业端数据，没必要流给 Anthropic。
 
-这关系到全球用户的数据与选择权。我们欢迎不同国家、民族和背景的人，围绕公开证据、资料可携带和公平获取技术形成合作。
+### 3、从稀土到数据，推动全方位对等反制
 
-**[阅读完整宣言：为什么这件事关系到所有人 →](POSITION.md)**
+Anthropic 值得拥有最全方位的封锁，从稀土到数据，再到它一切涉及中国的部分。中国网站和出版物可以增加 Anthropic 的专项数据控制。如果非要给 AI 的发展套上一个地缘政治的囚笼，就应该先给它套上。
 
-## 三个项目，三类读者
+### 4、可以使用，应该学习，绝不能依赖
 
-| 项目 | 面向谁 | 交付 |
-| --- | --- | --- |
-| **Anti-Anthropic · 你正在这里** | 想理解背景、全球格局与反对理由的人 | 保姆级宣言、事实依据、政策研究与行动方法 |
-| [Out-Anthropic](https://github.com/AndyAwake/Out-Anthropic) | 正在或曾经使用 Claude 的人 | 资料备份、数据迁出、恢复验证与减少依赖 |
-| [Free-Anthropic](https://github.com/AndyAwake/Free-Anthropic) | 想寻找平替、继续工作的人 | 国内可用模型、工具、开源项目与任务工作流 |
+我们不排斥使用 Anthropic 的产品。我们应该使用它，并且学习它。但是，我们不能依赖它，这是最关键的一点。每个企业和个人都应该去蒸馏 Anthropic 的产品，把它所有的优势点学回来，重塑自己的能力。
 
-## 从这里开始
+**学习它的技术，研究它的政治，联合它的对手，守住自己的数据。可以使用它，绝不依赖它。**
 
-| 你想了解什么 | 入口 |
+## 先读宣言，再看它怎样做政治
+
+- [打开项目网站](https://andyawake.github.io/Anti-Anthropic/)
+- [完整宣言](POSITION.md) · [宣言与行动手册](HANDBOOK.md) · [下载全文 PDF](https://andyawake.github.io/Anti-Anthropic/assets/guide.pdf)
+- [美国政治运作：4000 万美元政策资金、PAC、招聘与游说](POLITICS.md)
+- [网站和出版物专项数据控制](DATA-CONTROL.md) · [来源总表](sources.md)
+
+## 三个项目，三件事
+
+| 项目 | 做什么 |
 | --- | --- |
-| 为什么要做，普通人和公司具体怎么做 | [保姆级完整攻略](GUIDE.md) |
-| 它在美国怎样组织资金、游说、议题与人脉 | [美国政治运作详解](POLITICS.md) |
-| 网站、出版物和知识库怎样设置专项控制 | [逐步操作与验收](DATA-CONTROL.md) |
-| 30 天怎样落地 | [行动清单](checklist.md) |
-| 每个关键事实的依据 | [来源与核验说明](sources.md) |
-| 产品、服务和网站 | [星觉科技](COMPANY.md) |
-
-## 本版的三个重点
-
-- **11 月 12 日地区政策**：覆盖人员所在地、实体注册地与总部、控制关系，以及 API、云平台和授权转售渠道。[官方政策](https://www.anthropic.com/legal/supported-regions)
-- **美国政治运作**：分开解释公司政策捐款、员工 PAC、个人捐款、Super PAC 广告、游说与诉讼。不能把它们混成一笔钱。[官方捐款公告](https://www.anthropic.com/news/donation-public-first-action)、[FEC 员工 PAC 登记](https://www.fec.gov/data/committee/C00946111/)
-- **游说原始数据**：公司自报 Q1 156 万、Q2 197 万、Q3 211 万美元，合计 **564 万美元**；附 [30 份季度申报索引](lobbying-filings-2026.csv)。[Q1](https://lda.gov/filings/public/filing/90cc74f3-1bd5-40c1-bba0-8d6e00fbb200/print/)、[Q2](https://lda.gov/filings/public/filing/812e5787-90df-48ef-a801-500468d63047/print/)、[Q3](https://lda.gov/filings/public/filing/d0b9f104-2212-4fcc-8304-5c978c366768/print/)
-
-## 今天先做三件事
-
-1. **找清数据终点**：记下 AI 应用、实际模型、插件和知识库连接。WorkBuddy 等工作台支持自定义后端，界面名称不能替代对实际供应商的确认。[模型配置说明](https://www.codebuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Model)
-2. **给自有网站选规则**：只限制训练，或同时限制搜索和用户请求抓取。需要进一步限制 `Claude-Agent` 浏览器流量时，使用服务端或 WAF 规则。[操作教程](DATA-CONTROL.md)
-3. **用实际工作验证替代**：优先测试能正常使用的国内模型与工作台；账号和地区支持时，加入 Gemini 与 OpenAI。用 [30 个任务表](model-evaluation.csv) 记录质量、返工时间、费用和数据去向。
-
-## 工具下载
-
-| 文件 | 用途 |
-| --- | --- |
-| [robots-training-only.txt](robots-training-only.txt) | 限制 ClaudeBot 训练抓取 |
-| [robots-all-crawlers.txt](robots-all-crawlers.txt) | 限制三类官方爬虫/获取器 |
-| [cloudflare-rule.txt](cloudflare-rule.txt) | 按标识限制四类请求，保留 robots.txt 可读 |
-| [nginx-anthropic.conf](nginx-anthropic.conf) | 在现有站点按需接入的服务端示例 |
-| [publication-notice.txt](publication-notice.txt) | 给自有出版物表达专项授权立场的文字示例 |
-| [model-evaluation.csv](model-evaluation.csv) | 30 个替代任务与结果记录空表 |
-| [lobbying-filings-2026.csv](lobbying-filings-2026.csv) | 核查美国联邦游说申报与金额口径 |
-
-[下载整个资料包 ZIP](https://github.com/AndyAwake/Anti-Anthropic/archive/refs/heads/main.zip)
-
-robots.txt 表达访问偏好；WAF 和服务端规则阻止匹配条件的请求；私有资料仍由登录与权限保护。具体配置与检查见 [教程](DATA-CONTROL.md)。
+| **Anti-Anthropic** | 讲清背景、宣言、政治运作与反制逻辑 |
+| [Out-Anthropic](https://andyawake.github.io/Out-Anthropic/) | 备份、迁出 Claude 数据，减少依赖 |
+| [Free-Anthropic](https://andyawake.github.io/Free-Anthropic/) | 寻找替代模型、工具与实际工作流 |
 
 ## 星觉科技 · 用 AI 帮助企业增长，助力个人成长
 
@@ -78,8 +48,8 @@ robots.txt 表达访问偏好；WAF 和服务端规则阻止匹配条件的请�
 - **网站**：[Andy 官网](https://metaver.vip) · [星觉科技服务站](https://www.a6no1.cn/services) · [醒觉社](https://www.a6no1.cn/awake) · [AndyAwake 开源站](https://github.com/AndyAwake)。
 - **联系**：微信 **AIPMAndy**，可备注「Anti-Anthropic + 你的具体需求」。
 
-## 参与与许可证
+## 一起做下去
 
-欢迎提交有日期的一手来源、能复现的工具改进和实际替代案例。讨论具体政策与商业行为，不发布个人隐私，不把公司指控写成司法结论。
+欢迎补充政策来源、替代产品、数据控制方法与实际案例。
 
 [MIT](LICENSE) · AndyAwake / 星觉科技

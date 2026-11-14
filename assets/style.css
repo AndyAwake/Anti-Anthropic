@@ -31,3 +31,6 @@
 /* 文末产品、服务与联系信息 */
 .project-note{border-top:1px solid #e4e7e1;padding-top:32px;padding-bottom:34px;margin-top:36px}.project-note h2{max-width:880px;font-size:18px;font-weight:600;line-height:1.7;letter-spacing:0;margin:0 0 15px;color:#414940}.project-note ul{max-width:880px;margin:0;padding-left:18px}.project-note li{font-size:13px;line-height:2;color:#6b7269;margin:7px 0;overflow-wrap:anywhere}.project-note li strong{font-weight:600;color:#4b5449}.project-note a{color:#4a5c4d;text-decoration:underline;text-underline-offset:3px;text-decoration-color:#bdc7bb}.project-note a:hover{color:#1b321e;text-decoration-color:currentColor}
 @media(max-width:760px){.project-note{margin-top:24px;padding-top:24px;padding-bottom:26px}.project-note h2{font-size:16px}.project-note li{font-size:12px;line-height:1.95;margin:9px 0}}
+
+/* Anti 宣言：先讲主张，再展开材料 */
+.manifesto-wrap{padding-top:30px}.manifesto-intro .method-grid strong{font-size:16px}.manifesto-intro .method-grid p{font-size:14px;line-height:1.95;color:#424943}.manifesto-ending{font-size:14px;line-height:1.95;color:#424943}.manifesto-intro .method-grid>div{padding-bottom:12px}@media(max-width:760px){.manifesto-wrap{padding-top:18px}.manifesto-intro .method-grid{grid-template-columns:1fr}.manifesto-intro .method-grid strong{font-size:15px}.manifesto-intro .method-grid p,.manifesto-ending{font-size:13px}}
