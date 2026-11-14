@@ -1,6 +1,6 @@
 # Anti-Anthropic · GitHub Pages 部署与验收
 
-本目录是可直接合并至 `https://github.com/AndyAwake/Anti-Anthropic` 的独立静态网站升级包，**尚未推送 GitHub，也未上线**。
+本目录是可直接合并至 `https://github.com/AndyAwake/Anti-Anthropic` 的独立静态网站升级包。当前部署结果以仓库 Actions 和实际网站为准。
 
 ## 合并规则
 
@@ -17,9 +17,9 @@
 - 外部模型政策与政治新闻时间敏感，修改 `EVIDENCE` 或工具推荐前务必重新核对发布日期与原始来源。
 - 官网角色严格区分：公司官网 https://www.a6no1.cn/；个人官网 https://metaver.vip/；微信 AIPMAndy。
 
-## 未完成的线上验收
+## 线上验收
 
-当前连接仅对 `AIPMAndy` 有写入授权，对 `AndyAwake` 为只读，因此本包是本地交付，不是线上发布。需要将 `AndyAwake` 连接至 GitHub 插件并授权仓库写入后，才能由工具直接提交到仓库。
+启用 Pages 后，以实际 URL、PDF 和页面交互验证结果为准；单独上传文件不代表部署已完成。
 
 ## README 导流入口
 

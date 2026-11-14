@@ -1,5 +1,17 @@
 # Anti-Anthropic
 
+<!-- ANDYAWAKE_V4_START -->
+## 学习 Claude 的优秀方法与技术选择权 · 开源实操网站
+
+**给正在使用 Claude / Claude Code 的人：先保全自己的资料和工作成果，再按任务找到可用替代，最后把优秀方法沉淀为自己掌握的工程资产。** 不强迫弃用某款 AI，也不要求先加微信才能获得教程。
+
+- [打开完整交互网站](https://andyawake.github.io/Anti-Anthropic/)
+- [在线阅读全文手册](https://andyawake.github.io/Anti-Anthropic/#main-content) · [下载全文 PDF](https://andyawake.github.io/Anti-Anthropic/assets/guide.pdf)
+- 关联：[数据迁移](https://github.com/AndyAwake/Out-Anthropic) / [寻找平替](https://github.com/AndyAwake/Free-Anthropic) / [方法学习与证据](https://github.com/AndyAwake/Anti-Anthropic)
+
+教程免费，模板公开。作者 AI 酋长 Andy / 星觉科技。公司官网：[www.a6no1.cn](https://www.a6no1.cn/)。
+<!-- ANDYAWAKE_V4_END -->
+
 ## 反制 Anthropic：AI 技术主权、数据保护与商业竞争保姆级攻略
 
 **V2.1 · 2026 年 11 月 14 日 · AndyAwake / 星觉科技**
