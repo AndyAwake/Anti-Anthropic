@@ -29,7 +29,7 @@ Anthropic 值得拥有最全方位的封锁，从稀土到数据，再到它一�
 ## 先读宣言，再看它怎样做政治
 
 - [打开项目网站](https://andyawake.github.io/Anti-Anthropic/)
-- [完整宣言](POSITION.md) · [宣言与行动手册](HANDBOOK.md) · [下载全文 PDF](https://andyawake.github.io/Anti-Anthropic/assets/guide.pdf)
+- [完整宣言](POSITION.md) · [宣言与行动手册](HANDBOOK.md) · [下载全文 PDF](https://andyawake.github.io/Anti-Anthropic/assets/guide.pdf?v=4.1)
 - [美国政治运作：4000 万美元政策资金、PAC、招聘与游说](POLITICS.md)
 - [网站和出版物专项数据控制](DATA-CONTROL.md) · [来源总表](sources.md)
 
